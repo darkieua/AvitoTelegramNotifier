@@ -3,7 +3,8 @@ Simple Avito.ru notifier for Telegram Messenger. Used to search for apartments i
 
 ## Install dependencies
 
-Via Composer
+Dependencies are installed via Composer
+
 Projects uses [DomCrawler](https://github.com/symfony/dom-crawler) and [CssSelector](https://github.com/symfony/css-selector) components from Symfony and [Telegram Bot API PHP wrapper](https://github.com/TelegramBot/Api)
 ``` bash
 $ composer install
